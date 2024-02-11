@@ -1,6 +1,7 @@
 ---
 title: "2.0 Docs - Getting started"
 description: "Getting started guide to RadianceOS 2.0"
+layout: default
 permalink: "/2.0/docs/getting-started/"
 ---
 
