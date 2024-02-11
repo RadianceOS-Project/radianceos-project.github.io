@@ -5,4 +5,5 @@ theme: just-the-docs
 url: https://radianceos-project.github.io/
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  2.0 Docs: /2.0/docs/
+  1.0 Docs: /1.0/docs/
